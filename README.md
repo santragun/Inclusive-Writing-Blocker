@@ -14,4 +14,4 @@ L’add-on stocke les mails ainsi repérés dans un dossier particulier. Et, le 
 
 # Intérêt de l’add-on
 Actuellement, seuls 3% des mails reçus par un particulier dans le cadre privé contiennent de l’écriture inclusive. Mais la majorité de ces “mails inclusifs” sont émis par des organisations : associations, lobbies divers, entreprises commerciales. Vous les trouverez surtout dans les boîtes “Promotions”, "Notifications", “Spams”. L’important réside dans l’envoi automatique du refus du mail. Si l’utilisation de l’add-on se répand suffisamment, les entreprises émettrices finiront par revenir sur l'aberration que constitue leur recours à l’écriture inclusive..
-Si vous êtes intéressé par cette action et souhaitez l’encourager, il vous suffit de signaler l’existence de cet add-on à vos amis ou correspondants, en leur adressant le lien ci-dessous
+Si vous êtes intéressé par cette action et souhaitez l’encourager, il vous suffit de signaler l’existence de cet add-on à vos amis ou correspondants.
