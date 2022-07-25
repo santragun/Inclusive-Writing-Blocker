@@ -1,0 +1,48 @@
+{
+  "timeZone": "Africa/Nairobi",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "addOns": {
+    "common": {
+      "name": "BLOQUEUR D'ÉCRITURE INCLUSIVE",
+      "logoUrl": "https://drive.google.com/uc?id=1hsjsPZC8hyXAr7guSUnIDkivR2zDKNDj",
+      "layoutProperties": {
+        "primaryColor": "#132759",
+        "secondaryColor": "#00BCD4"
+      },
+      "homepageTrigger": {
+        "runFunction": "Home",
+        "enabled": true
+      }
+    },
+    "gmail": {
+      "homepageTrigger": {
+        "runFunction": "Home",
+        "enabled": true
+      },
+      "useLocaleFromApp": true
+    }
+  },
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/gmail.addons.execute",
+    "https://www.googleapis.com/auth/script.scriptapp",
+    "https://www.googleapis.com/auth/userinfo.email",
+    "https://www.googleapis.com/auth/script.locale",
+    "https://www.googleapis.com/auth/script.external_request"
+  ],
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "OAuth2",
+        "version": "41",
+        "libraryId": "1B7FSrk5Zi6L1rSxxTDgDEUsPzlukDsi4KGuTMorsTQHhGBzBkMun4iDF"
+      },
+      {
+        "userSymbol": "Cheerio",
+        "version": "14",
+        "libraryId": "1ReeQ6WO8kKNxoaA_O0XEQ589cIrRvEBA9qcWpNqdOP17i47u6N9M5Xh0"
+      }
+    ],
+    "enabledAdvancedServices": []
+  }
+}
